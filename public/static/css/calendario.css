@@ -1,0 +1,156 @@
+@font-face{
+    font-family:Flavor;
+    src: url("https://static.showit.co/file/__v-txqEQHGc_1vPkFwX5g/62804/flavourregular.woff");
+}
+
+@font-face{
+    font-family:Raleway;
+    src: url("https://static.showit.co/file/kNTijHS3ScCfjP9WlVFYAQ/62804/raleway-light.woff");
+}
+
+body{
+    background-color:#31231B;
+    color:#FFF4DC
+}
+
+a{
+    color:rgba(227,78,0,1);
+    font-weight:bold;
+}
+
+a:visited{
+    color:#840000;
+}
+
+a:hover{
+    color:#830000;
+    text-decoration:none;
+}
+
+.orange{
+    color:#a90000;
+}
+
+.e2{
+    font-family:Raleway;
+}
+
+#calendar-title{
+    font-family:Flavor;
+    font-size:3.4em;
+}
+
+#calendar-list{
+    font-family:Flavor;
+}
+
+#calendar-container{
+}
+
+#calendar-button{
+    background-color:#FFF4DC;
+    padding:10px;
+    width:auto;
+    font-weight:bold;
+    font-family:Flavor;
+    font-size:1.3em;
+    border-radius:5px;
+    cursor:pointer;
+    color:rgba(227,78,0,1);
+}
+#calendar-button:hover{
+    color:#FF6D00;
+}
+#calendar-button:active{
+    background-color:#F5F5F5;
+    color:rgba(227,78,0,1);
+}
+
+#calendar-description{
+    font-size: 18px;
+}
+
+.date-box{
+    width:75px;
+    font-size:1em;
+    float:left;
+}
+
+.date-month{
+    display:block;
+    line-height:1;
+    margin-bottom:-15px;
+    text-align:center;
+}
+.date-day{
+    display:block;
+    font-size:3.5em;
+    font-weight:bold;
+    text-align:center;
+}
+
+#calendar-list ol{
+    list-style-type:none;
+    margin:0 0 1.5em 0;
+    padding:0;
+    display:block;
+}
+
+.events{
+    display:block;
+    padding-left: 75px;
+
+}
+
+.calendar-title{
+    display:block;
+    text-transform:uppercase;
+    font-size:23px;
+    cursor:pointer;
+}
+
+.calendar-title:hover{
+    text-decoration:underline;
+}
+
+.info{
+    display:block;
+    margin-bottom: 25px;
+}
+
+.events{
+    margin-top:10px;
+}
+
+.event-details{
+    display:none;
+    font-family:Raleway, sans-serif;
+    font-size:16px;
+}
+#facebook-title{
+    display:block;
+    text-transform:uppercase;
+    font-size:23px;
+    cursor:pointer;
+    float: right;
+}
+
+#facebook-banner
+{
+    float: right;
+    margin-bottom: 0px!important;
+    margin-top: 20px;
+}
+.fb-page{
+    float: right!important;
+}
+
+@media (max-width: 768) {
+    #facebook-title{
+        margin-top: -30px;
+        float: left;
+    }
+    .fb-page{
+        float: left!important;
+    }
+}
