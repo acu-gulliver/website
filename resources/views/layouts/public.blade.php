@@ -217,7 +217,7 @@
                                    title="Vai alla pagina: I rappresentanti">I Rappresentanti</a>
                             </li>
                             <li class="dropdownmobile">
-                                <a href="{{url('/consiglio-studentesco/consiglio-studentesco-2/consiglio-studentesco-20182020//')}}"
+                                <a href="{{url('/consiglio-studentesco-2/consiglio-studentesco-20182020//')}}"
                                    title="Vai alla pagina: Consiglio Studentesco 18/19">Consiglio Studentesco 18/20</a>
                             </li>
                             <li class="dropdownmobile">
@@ -495,7 +495,7 @@
                                        href="{{url('/consiglio-studentesco/i-rappresentanti//')}}">I
                                         rappresentanti</a>
                                     <a class="dropdown-item"
-                                       href="{{url('/consiglio-studentesco/consiglio-studentesco-2/consiglio-studentesco-20182020//')}}">Consiglio
+                                       href="{{url('/consiglio-studentesco-2/consiglio-studentesco-20182020//')}}">Consiglio
                                         Studentesco 2018-2020</a>
                                     <a class="dropdown-item"
                                        href="{{url('/consiglio-studentesco/senato-accademico//')}}">Senato
