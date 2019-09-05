@@ -1,4 +1,9 @@
-# Sito web del Gulliver  [![Maintainability](https://api.codeclimate.com/v1/badges/8afd0763819dd41101f8/maintainability)](https://codeclimate.com/github/acu-gulliver/website/maintainability)
+# Sito web del Gulliver <br>  
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/8afd0763819dd41101f8/maintainability)](https://codeclimate.com/github/acu-gulliver/website/maintainability)
+[![GitHub issues](https://img.shields.io/github/issues/acu-gulliver/website?style=flat-square)](https://github.com/acu-gulliver/website/issues)
+[![GitHub license](https://img.shields.io/github/license/acu-gulliver/website?style=flat-square)](https://github.com/acu-gulliver/website/blob/master/LICENSE)
+[![Gulliver](https://img.shields.io/badge/%E2%98%AD-Gulliver-%23f00?style=flat-square)](https://gulliver.univpm.it)
 
 ## INSTALLAZIONE
 
