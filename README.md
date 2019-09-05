@@ -32,4 +32,5 @@ Abbiamo utilizzato (e ringraziamo) il seguente codice di terze parti
 <br>
 Autore: [italia](https://github.com/italia)<br>
 Repository: [italia/design-comuni-prototipi](https://github.com/italia/design-comuni-prototipi)<br>
-Licenza: [BSD-3-Clause](https://github.com/italia/design-comuni-prototipi/blob/master/LICENSE.md)
+Licenza: [BSD-3-Clause](https://github.com/italia/design-comuni-prototipi/blob/master/LICENSE.md)<br>
+======================================= <br>
