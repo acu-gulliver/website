@@ -15,6 +15,8 @@ use Illuminate\Http\Request;
 |
 */
 
+/**
+
 Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
@@ -31,8 +33,9 @@ Route::get('/prima',function(){
     print_r(Post::taxonomy('category', "primapagina")->orderBy('ID','DESC')->paginate(1));
 });
 
-/* GalleryMedia Routes */
+
 
 Route::get('/gallery','HomeController@getMedia');
 
-/* End GalleryMedia Routes */
+
+*/

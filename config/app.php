@@ -28,6 +28,11 @@ return [
 
     'env' => env('APP_ENV', 'production'),
 
+    'debug_blacklist' => [
+        '_SERVER' => array_keys($_ENV),
+        '_ENV' => array_keys($_ENV),        
+    ],
+
     /*
     |--------------------------------------------------------------------------
     | Application Debug Mode
