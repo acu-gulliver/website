@@ -13,7 +13,46 @@
     <title>Gulliver-Sinistra Universitaria</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Gulliver-Sinistra Universitaria">
+    
+
+	<meta property="og:image" content="http://www.gulliver.univpm.it/panel/calcolo_tasse/logo_veliero.png">
+
+
+	<title>Gulliver - Associazione Culturale Universitaria Ancona Univpm</title><!-- leave this for stats -->
+
+
+	<meta name="description"  content="Sito dell\&#039;Associazione Culturale Universitaria Gulliver e della Lista Gulliver - Sinistra Universitaria - Ancona" />
+
+	<meta name="keywords"  content="Gulliver, Sinistra Universitaria, Ancona, Diritto allo Studio, Cercalloggio, Gulliver - Sinistra Universitaria, Univpm, Università Politecnica delle Marche, Didattica, DM 270, Carnevale Gulliver, Gulliverock Festival, Attività Culturali, Via Saffi Ancona, Tesseramento Gulliver, Politica Universitaria, Tasse Universitarie, Tassa personalizzata" />
+
+
+	<link rel="canonical" href="https://www.gulliver.univpm.it/" />
+	<link rel='dns-prefetch' href='https://www.gulliver.univpm.it' />
+
+
+
+    <!--/ Facebook Thumb Fixer Open Graph /-->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.gulliver.univpm.it/" />
+    <meta property="og:title" content="Gulliver" />
+    <meta property="og:description" content="Associazione Culturale Universitaria" />
+    <meta property="og:site_name" content="Gulliver" />
+    <meta property="og:image" content="http://www.gulliver.univpm.it/calcolo_tasse/logo_veliero.png" />
+    <meta property="og:image:alt" content="Logo Gulliver associazione culturale universitaria Ancona Univpm" />
+    <meta property="og:image:width" content="" />
+    <meta property="og:image:height" content="" />
+
+    <meta itemscope itemtype="website" />
+    <meta itemprop="description" content="Associazione Culturale Universitaria" />
+    <meta itemprop="image" content="http://www.gulliver.univpm.it/calcolo_tasse/logo_veliero.png" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://www.gulliver.univpm.it/panel" />
+    <meta name="twitter:title" content="Gulliver" />
+    <meta name="twitter:description" content="Associazione Culturale Universitaria" />
+    <meta name="twitter:image" content="http://www.gulliver.univpm.it/calcolo_tasse/logo_veliero.png" />
+
+
 
     <!--Inclusione calendario-->
     <script src="{{url('https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta.3/js/bootstrap.js')}}"></script>
