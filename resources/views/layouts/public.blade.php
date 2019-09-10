@@ -10,7 +10,7 @@
             baseTag.href = baseTag.href;
         })();
     </script><![endif]-->
-    <title>Gulliver-Sinistra Universitaria</title>
+    
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -64,9 +64,7 @@
     <link href="{{url('https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.css')}}" rel="stylesheet" />
     <link rel="stylesheet" href="{{asset('static/css/calendario.css')}}"/>
     <!--Inclusione calendario-->
-    <!-- Inclusione album facebook-->
-
-    <!-- Inclusione album facebook-->
+   
 
     <div id="fb-root"></div>
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v4.0"></script>
@@ -102,8 +100,6 @@
     <link href="{{asset('static/css/cagliari.min.css')}}" rel="stylesheet" type="text/css"/>
     <link href="{{asset('static/css/cagliari-print.min.css')}}" rel="stylesheet" type="text/css"/>
 
-
-    <meta name="robots" content="noindex, nofollow">
     @yield('css')
 </head>
 <body class="push-body" data-ng-app="ponmetroca">
