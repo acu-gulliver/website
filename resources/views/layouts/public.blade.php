@@ -10,64 +10,67 @@
             baseTag.href = baseTag.href;
         })();
     </script><![endif]-->
-    
+
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
-
-	<meta property="og:image" content="http://www.gulliver.univpm.it/panel/calcolo_tasse/logo_veliero.png">
 
 
-	<title>Gulliver - Associazione Culturale Universitaria Ancona Univpm</title><!-- leave this for stats -->
+    <meta property="og:image" content="http://www.gulliver.univpm.it/panel/calcolo_tasse/logo_veliero.png">
 
 
-	<meta name="description"  content="Sito dell\&#039;Associazione Culturale Universitaria Gulliver e della Lista Gulliver - Sinistra Universitaria - Ancona" />
-
-	<meta name="keywords"  content="Gulliver, Sinistra Universitaria, Ancona, Diritto allo Studio, Cercalloggio, Gulliver - Sinistra Universitaria, Univpm, Università Politecnica delle Marche, Didattica, DM 270, Carnevale Gulliver, Gulliverock Festival, Attività Culturali, Via Saffi Ancona, Tesseramento Gulliver, Politica Universitaria, Tasse Universitarie, Tassa personalizzata" />
+    <title>Gulliver - Associazione Culturale Universitaria Ancona Univpm</title><!-- leave this for stats -->
 
 
-	<link rel="canonical" href="https://www.gulliver.univpm.it/" />
-	<link rel='dns-prefetch' href='https://www.gulliver.univpm.it' />
+    <meta name="description"
+          content="Sito dell\&#039;Associazione Culturale Universitaria Gulliver e della Lista Gulliver - Sinistra Universitaria - Ancona"/>
 
+    <meta name="keywords"
+          content="Gulliver, Sinistra Universitaria, Ancona, Diritto allo Studio, Cercalloggio, Gulliver - Sinistra Universitaria, Univpm, Università Politecnica delle Marche, Didattica, DM 270, Carnevale Gulliver, Gulliverock Festival, Attività Culturali, Via Saffi Ancona, Tesseramento Gulliver, Politica Universitaria, Tasse Universitarie, Tassa personalizzata"/>
+
+
+    <link rel="canonical" href="https://www.gulliver.univpm.it/"/>
+    <link rel='dns-prefetch' href='https://www.gulliver.univpm.it'/>
 
 
     <!--/ Facebook Thumb Fixer Open Graph /-->
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://www.gulliver.univpm.it/" />
-    <meta property="og:title" content="Gulliver" />
-    <meta property="og:description" content="Associazione Culturale Universitaria" />
-    <meta property="og:site_name" content="Gulliver" />
-    <meta property="og:image" content="http://www.gulliver.univpm.it/calcolo_tasse/logo_veliero.png" />
-    <meta property="og:image:alt" content="Logo Gulliver associazione culturale universitaria Ancona Univpm" />
-    <meta property="og:image:width" content="" />
-    <meta property="og:image:height" content="" />
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://www.gulliver.univpm.it/"/>
+    <meta property="og:title" content="Gulliver"/>
+    <meta property="og:description" content="Associazione Culturale Universitaria"/>
+    <meta property="og:site_name" content="Gulliver"/>
+    <meta property="og:image" content="http://www.gulliver.univpm.it/calcolo_tasse/logo_veliero.png"/>
+    <meta property="og:image:alt" content="Logo Gulliver associazione culturale universitaria Ancona Univpm"/>
+    <meta property="og:image:width" content=""/>
+    <meta property="og:image:height" content=""/>
 
-    <meta itemscope itemtype="website" />
-    <meta itemprop="description" content="Associazione Culturale Universitaria" />
-    <meta itemprop="image" content="http://www.gulliver.univpm.it/calcolo_tasse/logo_veliero.png" />
+    <meta itemscope itemtype="website"/>
+    <meta itemprop="description" content="Associazione Culturale Universitaria"/>
+    <meta itemprop="image" content="http://www.gulliver.univpm.it/calcolo_tasse/logo_veliero.png"/>
 
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:url" content="https://www.gulliver.univpm.it/panel" />
-    <meta name="twitter:title" content="Gulliver" />
-    <meta name="twitter:description" content="Associazione Culturale Universitaria" />
-    <meta name="twitter:image" content="http://www.gulliver.univpm.it/calcolo_tasse/logo_veliero.png" />
-
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:url" content="https://www.gulliver.univpm.it/panel"/>
+    <meta name="twitter:title" content="Gulliver"/>
+    <meta name="twitter:description" content="Associazione Culturale Universitaria"/>
+    <meta name="twitter:image" content="http://www.gulliver.univpm.it/calcolo_tasse/logo_veliero.png"/>
 
 
     <!--Inclusione calendario-->
-    <script src="{{url('https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta.3/js/bootstrap.js')}}"></script>
+    <script
+        src="{{url('https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta.3/js/bootstrap.js')}}"></script>
     <script src="{{url('https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js')}}"></script>
     <script src="{{url('https://cdnjs.cloudflare.com/ajax/libs/FitText.js/1.2.0/jquery.fittext.js')}}"></script>
     <script src="{{url('https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.js')}}"></script>
     <script src="{{url('https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment.js')}}"></script>
-    <link href="{{url('https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta.3/css/bootstrap.css')}}" rel="stylesheet" />
-    <link href="{{url('https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.css')}}" rel="stylesheet" />
+    <link href="{{url('https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta.3/css/bootstrap.css')}}"
+          rel="stylesheet"/>
+    <link href="{{url('https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.css')}}" rel="stylesheet"/>
     <link rel="stylesheet" href="{{asset('static/css/calendario.css')}}"/>
     <!--Inclusione calendario-->
-   
+
 
     <div id="fb-root"></div>
-    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v4.0"></script>
+    <script async defer crossorigin="anonymous"
+            src="https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v4.0"></script>
     <!--Inclusione facebook-->
 
     <link rel="apple-touch-icon" sizes="57x57" href="{{asset('static/img/apple-icon-57x57.png')}}"/>
@@ -111,9 +114,9 @@
     <![endif]-->
     <div class="skiplink sr-only">
         <ul>
-            <li><a accesskey="2" href="{{url('/')}}#main_container">Vai ai contenuti</a></li>
-            <li><a accesskey="3" href="{{url('/')}}#menup">Vai al menu di navigazione</a></li>
-            <li><a accesskey="4" href="{{url('/')}}#footer">Vai al footer</a></li>
+            <li><a accesskey="2" href="#main_container" title="Vai ai contenuti">Vai ai contenuti</a></li>
+            <li><a accesskey="3" href="#menup" title="Vai al menu di navigazione">Vai al menu di navigazione</a></li>
+            <li><a accesskey="4" href="#footer" title="Vai al footer">Vai al footer</a></li>
         </ul>
     </div>
     <header id="mainheader" class="navbar-fixed-top bg-blu container-fullwidth">
@@ -182,7 +185,7 @@
                         <ul class="navmenu navdropdown">
                             <li class="dropdownmobile">
                                 <a href="{{url('/gulliver/chi-siamo//')}}"
-                                   title="Vai alla pagina: Chi siamoE">L'Associazione</a>
+                                   title="Vai alla pagina: Chi siamo">L'Associazione</a>
                             </li>
                             <li class="dropdownmobile">
                                 <a href="{{url('/rappresentanti-degli-studenti/info-utili//')}}"
@@ -201,13 +204,16 @@
                                    title="Vai alla pagina: Convenzioni">Convenzioni</a>
                             </li>
                             <li class="dropdownmobile">
-                                <a href="{{url('/associazione/contatti//')}}" title="Vai alla pagina: Contatti">Contatti</a>
+                                <a href="{{url('/associazione/contatti//')}}"
+                                   title="Vai alla pagina: Contatti">Contatti</a>
                             </li>
                             <li class="dropdownmobile">
-                                <a href="http://gulliver.univpm.it:81/gallery">Galleria</a>
+                                <a href="https://gulliver.univpm.it/gallery"
+                                   title="Vai alla pagina: Galleria">Galleria</a>
                             </li>
                             <li class="dropdownmobile">
-                                <a href="{{url('/appunti/ancona-citta-universitaria//')}}">Mappa Ancona</a>
+                                <a href="{{url('/appunti/ancona-citta-universitaria//')}}"
+                                   title="Vai alla pagina: Mappa Ancona">Mappa Ancona</a>
                             </li>
                         </ul>
                     </li>
@@ -264,7 +270,8 @@
                                    title="Vai alla pagina: CdA Erdis">CdA Erdis</a>
                             </li>
                             <li class="dropdownmobile">
-                                <a href="{{url('/consiglio-studentesco-2/storico-consiglio-studentesco//')}}" title="Vai alla pagina: Storico">Storico</a>
+                                <a href="{{url('/consiglio-studentesco-2/storico-consiglio-studentesco//')}}"
+                                   title="Vai alla pagina: Storico">Storico</a>
                             </li>
                         </ul>
                     </li>
@@ -296,7 +303,8 @@
                                 <a href="{{url('/corsi/')}}" title="Vai alla pagina: Diritto Allo Studio">Corsi</a>
                             </li>
                             <li class="dropdownmobile">
-                                <a href="{{url('/attivita-culturali/')}}" title="Vai alla pagina: Didattica">Attività Culturali</a>
+                                <a href="{{url('/attivita-culturali/')}}" title="Vai alla pagina: Didattica">Attività
+                                    Culturali</a>
                             </li>
                         </ul>
                     </li>
@@ -341,17 +349,20 @@
                         </ul>
                     </li>
                     <li>
-                        <a class="nav-link" href="{{url('/comunicato-stampa//')}}">Comunicati
+                        <a class="nav-link" href="{{url('/comunicato-stampa//')}}"
+                           title="Vai alla pagina: Comunicati Stampa">Comunicati
                             stampa</a>
                     </li>
                     <li>
-                        <a class="nav-link" href="{{url('/cercalloggio//')}}">Cerca Alloggio</a>
+                        <a class="nav-link" href="{{url('/cercalloggio//')}}" title="Vai alla pagina: Cercalloggio">Cerca
+                            Alloggio</a>
                     </li>
                     <li>
-                        <a class="nav-link" href="http://www.unionedegliuniversitari.it/">UDU</a>
+                        <a class="nav-link" href="http://www.unionedegliuniversitari.it/"
+                           title="Collegamento a sito esterno: UDU">UDU</a>
                     </li>
                     <li>
-                        <a class="nav-link" href="https://www.univpm.it/">UNIVPM</a>
+                        <a class="nav-link" href="https://www.univpm.it/" title="Collegamento a sito esterno: UNIVPM">UNIVPM</a>
                     </li>
                 </ul>
 
@@ -384,9 +395,9 @@
             <div class="row clearfix">
                 <div class="col-xl-7 col-lg-7 col-md-8 col-sm-12 comune">
                     <div class="logoprint">
-                        <h1>
+                        <h2>
                             <img src="{{asset('static/img/logo_cagliari_print.png')}}" alt="Logo Gulliver"/>
-                            Gulliver </h1>
+                            Gulliver </h2>
                     </div>
                     <div class="logoimg">
                         <a href="{{url('/')}}" title="Gulliver-Sinistra Universitaria">
@@ -475,17 +486,24 @@
                                 </p>
                                 <div class="dropdown-menu sm-menu">
                                     <a class="dropdown-item"
-                                       href="{{url('/gulliver/chi-siamo//')}}">L'Associazione</a>
+                                       href="{{url('/gulliver/chi-siamo/')}}" title="Vai alla pagina: Chi siamo">L'Associazione</a>
                                     <a class="dropdown-item"
-                                       href="{{url('/rappresentanti-degli-studenti/info-utili//')}}">La Lista</a>
+                                       href="{{url('/rappresentanti-degli-studenti/info-utili/')}}"
+                                       title="Vai alla pagina: La lista">La Lista</a>
                                     <a class="dropdown-item"
-                                       href="{{url('/gulliver/dove-siamo//')}}">Dove siamo</a>
-                                    <a class="dropdown-item" href="{{url('/gulliver/statuto//')}}">Statuto</a>
+                                       href="{{url('/gulliver/dove-siamo//')}}" title="Vai alla pagina: Dove siamo">Dove
+                                        siamo</a>
+                                    <a class="dropdown-item" href="{{url('/gulliver/statuto/')}}"
+                                       title="Vai alla pagina: Statuto">Statuto</a>
                                     <a class="dropdown-item"
-                                       href="{{url('/gulliver/convenzioni//')}}">Convenzioni</a>
-                                    <a class="dropdown-item" href="{{url('/associazione/contatti/')}}">Contatti</a>
-                                    <a class="dropdown-item" href="{{url('/gallery/')}}">Galleria</a>
-                                    <a class="dropdown-item" href="{{url('/gulliver/ancona-citta-universitaria//')}}">Mappa Ancona</a>
+                                       href="{{url('/gulliver/convenzioni/')}}" title="Vai alla pagina: Convenzioni">Convenzioni</a>
+                                    <a class="dropdown-item" href="{{url('/associazione/contatti/')}}"
+                                       title="Vai alla pagina: Contatti">Contatti</a>
+                                    <a class="dropdown-item" href="{{url('/gallery/')}}"
+                                       title="Vai alla pagina: Galleria">Galleria</a>
+                                    <a class="dropdown-item" href="{{url('/gulliver/ancona-citta-universitaria/')}}"
+                                       title="Vai alla pagina: Mappa Ancona">Mappa
+                                        Ancona</a>
                                 </div>
                             </li>
                             <!--***********-->
@@ -496,25 +514,32 @@
                                     Rappresentanza
                                 </p>
                                 <div class="dropdown-menu sm-menu">
-                                    <a class="dropdown-item" href="{{url('/cnsu/')}}">Elezioni CNSU
+                                    <a class="dropdown-item" href="{{url('/cnsu/')}}"
+                                       title="Vai alla pagina: Elezioni CNSU">Elezioni CNSU
                                         2019</a>
                                     <a class="dropdown-item"
-                                       href="{{url('/elezioni-universitarie-2018/')}}">Elezioni
+                                       href="{{url('/elezioni-universitarie-2018/')}}"
+                                       title="Vai alla pagina: Elezioni 2018">Elezioni
                                         universitarie 2018</a>
                                     <a class="dropdown-item"
-                                       href="{{url('/elezioni-universitarie-2016/')}}">Elezioni
+                                       href="{{url('/elezioni-universitarie-2016/')}}"
+                                       title="Vai alla pagina: Elezioni 2016">Elezioni
                                         universitarie 2016</a>
                                     <a class="dropdown-item"
-                                       href="{{url('/elezioni-universitarie-2014/')}}">Elezioni
+                                       href="{{url('/elezioni-universitarie-2014/')}}"
+                                       title="Vai alla pagina: Elezioni 2014">Elezioni
                                         universitarie 2014</a>
                                     <a class="dropdown-item"
-                                       href="{{url('/rappresentanti-degli-studenti/elezioni-universitarie-2013/')}}">Elezioni
+                                       href="{{url('/rappresentanti-degli-studenti/elezioni-universitarie-2013/')}}"
+                                       title="Vai alla pagina: Elezioni 2013">Elezioni
                                         universitarie 2013</a>
                                     <a class="dropdown-item"
-                                       href="{{url('/rappresentanti-degli-studenti/elezioni-universitarie-2012/')}}">Elezioni
+                                       href="{{url('/rappresentanti-degli-studenti/elezioni-universitarie-2012/')}}"
+                                       title="Vai alla pagina: Elezioni 2012">Elezioni
                                         universitarie 2012</a>
                                     <a class="dropdown-item"
-                                       href="{{url('/rappresentanti-degli-studenti/elezioni-universitarie-2010/')}}">Elezioni
+                                       href="{{url('/rappresentanti-degli-studenti/elezioni-universitarie-2010/')}}"
+                                       title="Vai alla pagina: Elezioni 2010">Elezioni
                                         universitarie 2010</a>
                                 </div>
                             </li>
@@ -527,18 +552,25 @@
                                 </p>
                                 <div class="dropdown-menu sm-menu">
                                     <a class="dropdown-item"
-                                       href="{{url('/consiglio-studentesco/i-rappresentanti//')}}">I
+                                       href="{{url('/consiglio-studentesco/i-rappresentanti/')}}"
+                                       title="Vai alla pagina: Rappresentanti">I
                                         rappresentanti</a>
                                     <a class="dropdown-item"
-                                       href="{{url('/consiglio-studentesco-2/consiglio-studentesco-20182020//')}}">Consiglio
+                                       href="{{url('/consiglio-studentesco-2/consiglio-studentesco-20182020/')}}"
+                                       title="Vai alla pagina: Consiglio studentesco">Consiglio
                                         Studentesco 2018-2020</a>
                                     <a class="dropdown-item"
-                                       href="{{url('/consiglio-studentesco/senato-accademico//')}}">Senato
+                                       href="{{url('/consiglio-studentesco/senato-accademico/')}}"
+                                       title="Vai alla pagina: Senato">Senato
                                         Accademico e Consiglio di Amministrazione</a>
                                     <a class="dropdown-item"
-                                       href="{{url('/consiglio-studentesco/cda-e-r-s-u//')}}">Consiglio
+                                       href="{{url('/consiglio-studentesco/cda-e-r-s-u/')}}"
+                                       title="Vai alla pagina: Consiglio ERDIS">Consiglio
                                         di Amministrazione Erdis</a>
-                                    <a class="dropdown-item" href="{{url('/consiglio-studentesco-2/storico-consiglio-studentesco//')}}">Storico anni Precedenti</a>
+                                    <a class="dropdown-item"
+                                       href="{{url('/consiglio-studentesco-2/storico-consiglio-studentesco/')}}"
+                                       title="Vai alla pagina: Storico">Storico
+                                        anni Precedenti</a>
 
                                 </div>
                             </li>
@@ -550,13 +582,15 @@
                                     Tasse, DSU e Didattica
                                 </p>
                                 <div class="dropdown-menu sm-menu">
-                                    <a class="dropdown-item" href="{{url('/problematica-isee///')}}">Guida
+                                    <a class="dropdown-item" href="{{url('/problematica-isee/')}}"
+                                       title="Vai alla pagina: Guida tasse">Guida
                                         Alle tasse e ISEE</a>
                                     <a class="dropdown-item"
-                                       href="{{url('/diritto-allo-studio//')}}">Diritto allo
+                                       href="{{url('/diritto-allo-studio/')}}"
+                                       title="Vai alla pagina: Diritto allo studio">Diritto allo
                                         Studio</a>
                                     <a class="dropdown-item"
-                                       href="{{url('/didattica//')}}">Didattica</a>
+                                       href="{{url('/didattica/')}}" title="Vai alla pagina: Didattica">Didattica</a>
                                 </div>
                             </li>
                             <!--*****************-->
@@ -568,9 +602,12 @@
                                 </p>
                                 <div class="dropdown-menu sm-menu">
                                     <a class="dropdown-item"
-                                       href="{{url('/associazione/gulliverock-festival//')}}">GulliveRock</a>
-                                    <a class="dropdown-item" href="{{url('/corsi//')}}">Corsi </a>
-                                    <a class="dropdown-item" href="{{url('/attivita-culturali//')}}">Attività culturali</a>
+                                       href="{{url('/associazione/gulliverock-festival/')}}"
+                                       title="Vai alla pagina: GulliveRock">GulliveRock</a>
+                                    <a class="dropdown-item" href="{{url('/corsi/')}}" title="Vai alla pagina: Corsi">Corsi </a>
+                                    <a class="dropdown-item" href="{{url('/attivita-culturali/')}}"
+                                       title="Vai alla pagina: Attività culturali">Attività
+                                        culturali</a>
                                 </div>
                             </li>
                             <!--*****************-->
@@ -581,11 +618,12 @@
                                     Appunti
                                 </p>
                                 <div class="dropdown-menu sm-menu">
-                                    <a class="dropdown-item" href="{{url('/appunti/appunti-ingegneria//')}}">Ingegneria</a>
-                                    <a class="dropdown-item" href="{{url('/appunti/appunti-economia//')}}">Economia</a>
-                                    <a class="dropdown-item" href="{{url('/')}}">Agraria</a>
-                                    <a class="dropdown-item" href="{{url('/')}}">Scienze</a>
-                                    <a class="dropdown-item" href="{{url('/')}}">Medicina</a>
+                                    <a class="dropdown-item"
+                                       href="{{url('/appunti/appunti-ingegneria/')}}" title="Vai alla pagina: Ingegneria">Ingegneria</a>
+                                    <a class="dropdown-item" href="{{url('/appunti/appunti-economia/')}}" title="Vai alla pagina: Economia">Economia</a>
+                                    <a class="dropdown-item" href="{{url('/')}}" title="Vai alla pagina: Agraria">Agraria</a>
+                                    <a class="dropdown-item" href="{{url('/')}}" title="Vai alla pagina: Scienze">Scienze</a>
+                                    <a class="dropdown-item" href="{{url('/')}}" title="Vai alla pagina: Medicina">Medicina</a>
                                 </div>
                             </li>
                             <!--*****************-->
@@ -596,20 +634,20 @@
                                     Utility
                                 </p>
                                 <div class="dropdown-menu sm-menu">
-                                    <a class="dropdown-item" href="https://nia-dotnet.univpm.it/simulatore-tasse/">Calcolatore
+                                    <a class="dropdown-item" href="https://nia-dotnet.univpm.it/simulatore-tasse/" title="Vai alla pagina: Calcolatore tasse">Calcolatore
                                         tasse</a>
                                     <a class="dropdown-item"
-                                       href="{{url('/utilita/kit-dello-studente//')}}">Kit dello
+                                       href="{{url('/utilita/kit-dello-studente/')}}" title="Vai alla pagina: Kit dello studente">Kit dello
                                         studente</a>
                                     <a class="dropdown-item"
-                                       href="{{url('/rappresentanti-degli-studenti/diritto-allo-studio-univpm//')}}">Guida
+                                       href="{{url('/rappresentanti-degli-studenti/diritto-allo-studio-univpm/')}}" title="Vai alla pagina: Guida erdis">Guida
                                         Erdis</a>
-                                    <a class="dropdown-item" href="{{url('/')}}">Tutti i download</a>
+                                    <a class="dropdown-item" href="{{url('/')}}" title="Vai alla pagina: Download">Tutti i download</a>
                                 </div>
                             </li>
                             <!--*****************-->
                             <li class="nav-item">
-                                <a class="nav-link" href="{{url('/comunicato-stampa//')}}">Comunicati
+                                <a class="nav-link" href="{{url('/comunicato-stampa/')}}" title="Vai alla pagina: Comunicati">Comunicati
                                     stampa</a>
                             </li>
                             <li>
@@ -637,13 +675,13 @@
                     <div class="col-sm-12 intestazione">
                         <div class="logoimg">
                             <a href="{{url('/')}}" title="Gulliver Sinistra universitaria">
-                                <img src="{{asset('static/img/veliero-bianco.png')}}" alt="Logo del Comune di Cagliari"
+                                <img src="{{asset('static/img/veliero-bianco.png')}}" alt="Logo del Gulliver"
                                      style="vertical-align: top!important;"/>
                             </a>
                         </div>
                         <div class="logotxt">
                             <h3>
-                                <a href="{{url('/')}}" title="Vai alla pagina: Comune di Cagliari - Sito istituzionale">Gulliver
+                                <a href="{{url('/')}}" title="Vai alla pagina: Gulliver - Sinistra universitaria">Gulliver
                                     <h6>Sinistra Universitaria</h6></a>
                             </h3>
                         </div>
@@ -703,12 +741,12 @@
                         </h4>
                         <ul class="footer-list clearfix">
                             <li><a href="{{url('/associazione/giornalino//')}}"
-                                   title="Vai alla pagina: Giornalino">Giornalino</li>
+                                   title="Vai alla pagina: Giornalino">Giornalino</a></li>
                             <li><a href="{{url('/associazione/referendum-2011//')}}"
-                                   title="Vai alla pagina: Referendum 2011">Referendum 2011</li>
+                                   title="Vai alla pagina: Referendum 2011">Referendum 2011</a></li>
                             <li><a href="{{url('/associazione/referendum-costituzionale-2016//')}}"
                                    title="Vai alla pagina: Referendum Costituzionale 2016">Referendum Costituzionale
-                                    2016</li>
+                                    2016</a></li>
                             <li><a href="{{url('/associazione/il-globulo-rosso//')}}"
                                    title="Vai alla pagina: Il Globulo rosso">Il Globulo rosso</a></li>
                             <li><a href="{{url('/emergenza-neve//')}}"
@@ -845,7 +883,7 @@
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Chiudi accesso area riservata">
                     <span aria-hidden="true">&times;</span></button>
-                <h1 class="modal-title" id="modalaccess">Accesso ai servizi online</h1>
+                <h2 class="modal-title" id="modalaccess">Accesso ai servizi online</h2>
             </div>
             <div class="modal-body">
                 <div class="modal-footer">
@@ -886,19 +924,23 @@
                             <div class="row">
                                 <div class="col-sm-11">
 
-                                    <h1 class="modal-title" id="searchModalTitle">
-                                        <button class="topcontroll" id="backsearch" data-dismiss="modal" style="font-size: 45px"><i class="fa fa-chevron-circle-left" aria-hidden="true"></i></button>
+                                    <h2 class="modal-title" id="searchModalTitle">
+                                        <button class="topcontroll" id="backsearch" data-dismiss="modal"
+                                                style="font-size: 45px"><i class="fa fa-chevron-circle-left"
+                                                                           aria-hidden="true"></i></button>
                                         <span>Cerca</span>
-                                    </h1>
+                                    </h2>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-sm-11 text-center">
-                                    <input class="search-form" type="text" name="search" placeholder="Cerca informazioni ed articoli nel sito">
+                                    <input class="search-form" type="text" name="search"
+                                           placeholder="Cerca informazioni ed articoli nel sito">
 
                                 </div>
                                 <div class="col-sm-1 text-center">
-                                    <button class="confirm btn" id="searchbutton"><i class="fa fa-arrow-circle-o-right " aria-hidden="true"></i>
+                                    <button class="confirm btn" id="searchbutton"><i class="fa fa-arrow-circle-o-right "
+                                                                                     aria-hidden="true"></i>
                                     </button>
                                 </div>
                             </div>
