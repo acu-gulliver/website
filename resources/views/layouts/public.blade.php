@@ -801,37 +801,17 @@
 
 
 <link href="{{asset('static/css/jquery-ui.css')}}" rel="stylesheet" type="text/css"/>
-
 <link href="{{asset('static/css/owl.carousel.min.css')}}" rel="stylesheet" type="text/css"/>
 <link href="{{asset('static/css/owl.theme.default.min.css')}}" rel="stylesheet" type="text/css"/>
 <link href="{{asset('static/css/home.min.css')}}" rel="stylesheet" type="text/css"/>
-
-
-<link href="{{asset('static/css/angular-material.min.css')}}" rel="stylesheet" type="text/css"/>
 <link href="{{asset('static/css/bricklayer.min.css')}}" rel="stylesheet" type="text/css"/>
-
 <script src="{{asset('static/js/jquery-3.3.1.min.js')}}"></script>
 <script src="{{asset('static/js/popper.min.js')}}"></script>
-
 <script src="{{asset('static/js/bootstrap-italia.bundle_1.2.0.min.js')}}"></script>
-
 <script src="{{asset('static/js/cagliari.min.js')}}"></script>
 <script src="{{asset('static/js/jquery-ui.js')}}"></script>
 <script src="{{asset('static/js/i18n/datepicker-it.js')}}"></script>
-<script src="{{asset('static/js/angular.min.js')}}"></script>
-<script src="{{asset('static/js/angular-animate.min.js')}}"></script>
-<script src="{{asset('static/js/angular-aria.min.js')}}"></script>
-<script src="{{asset('static/js/angular-messages.min.js')}}"></script>
-<script src="{{asset('static/js/angular-material.min.js')}}"></script>
-<script src="{{asset('static/js/angular-sanitize.min.js')}}"></script>
 <script src="{{asset('static/js/bricklayer.min.js')}}"></script>
-<script src="{{asset('static/js/angular-bricklayer.min.js')}}"></script>
-<script src="{{asset('static/js/app.js')}}"></script>
-<script src="{{asset('static/js/ricerca.js')}}"></script>
-<script src="{{asset('static/js/ricerca-service.js')}}"></script>
-<script src="{{asset('static/js/general-service.js')}}"></script>
-<script src="{{asset('static/js/filtri-controller.js')}}"></script>
-<script src="{{asset('static/js/filtri-service.js')}}"></script>
 <script src="{{asset('static/js/calendario.js')}}"></script>
 <!--Inclusione slider javascript-->
 <script src="{{url('https://zeptojs.com/zepto.min.js')}}"></script>
@@ -876,39 +856,6 @@
     </p>
 </div>
 
-<!-- ACCESSO AREA RISERVATA -->
-<div class="modal fade" id="accessModal" tabindex="-1" role="dialog" aria-labelledby="modalaccess">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Chiudi accesso area riservata">
-                    <span aria-hidden="true">&times;</span></button>
-                <h2 class="modal-title" id="modalaccess">Accesso ai servizi online</h2>
-            </div>
-            <div class="modal-body">
-                <div class="modal-footer">
-                    <h2>Accesso al portale</h2>
-                    <form action="#" method="post">
-                        <div class="form-group">
-                            <label for="username" class="control-label">Username</label>
-                            <input type="text" class="form-control" name="username" id="username"
-                                   placeholder="inserisci il tuo username"/>
-                        </div>
-                        <div class="form-group">
-                            <label for="password_modal" class="control-label">Password</label>
-                            <input type="password" class="form-control" name="password" id="password_modal"
-                                   placeholder="inserisci la password"/>
-                        </div>
-                        <div class="form-group small text-center mt15 mb15">
-                            <input type="submit" class="btn btn-primary" value="Login"/>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
 
 <div id="dvRicerca">
 
@@ -946,6 +893,7 @@
                             </div>
                         </div>
                     </div>
+                </form>
             </div>
             </form>
         </div>
@@ -956,5 +904,6 @@
 </body>
 
 
-</body>@yield('js')
+</body>
+@yield('js')
 </html>
