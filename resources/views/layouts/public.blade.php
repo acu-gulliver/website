@@ -94,8 +94,6 @@
 
     <!-- Link di riferimento per libreria slider-->
     <link rel="stylesheet" href="{{url('https://cdnjs.cloudflare.com/ajax/libs/vegas/2.4.4/vegas.min.css')}}">
-    <link rel="stylesheet" href="{{url('https://cdnjs.cloudflare.com/ajax/libs/vegas/2.4.4/vegas.min.css.map')}}">
-    <script src="{{url('http://code.jquery.com/jquery.min.js')}}"></script>
     <script src="{{url('https://code.jquery.com/jquery.min.js')}}"></script>
     <script src="{{url('https://cdnjs.cloudflare.com/ajax/libs/vegas/2.4.4/vegas.js')}}"></script>
     <!--*****************************************-->
