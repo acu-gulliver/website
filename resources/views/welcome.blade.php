@@ -63,7 +63,7 @@
                     <div class="row row-eq-height">
 
                         @forelse($posts as $post)
-                            <div class="col-md-4">
+                            <div class="col-md-3">
                                 <article class="scheda scheda-round">
                                     <div class="scheda-icona-small">
                                         <a href="{{url('/'.$post->taxonomies->first()->slug)}}" title="Vai alla pagina: Giunta e Consiglio">
@@ -88,7 +88,7 @@
                             </div>
                         @empty
                         @endforelse
-
+                        <div class="fb-page" data-href="https://www.facebook.com/ACUGulliverSU/?ref=br_rs" data-tabs="timeline" data-width="" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/ACUGulliverSU/?ref=br_rs" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/ACUGulliverSU/?ref=br_rs">Acu Gulliver Sinistra Universitaria</a></blockquote></div>
                     </div>
                 </div>
             </div>
@@ -218,12 +218,6 @@
                         </div>
                         <a id="calendar-button" class="orange" href="https://calendar.google.com/calendar?cid=bnJibmdza3NybDEycGswZDg2aWszOTVsbmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">Salva il calendario!</a>
                         <p class="e2" id="calendar-description">Salvando il calendario nel tuo account google ti verranno notificate tutte le attività, gli scioperi, le feste e le manifestazioni</p>
-                    </div>
-                    <div id="facebook-banner" class="col-lg-4 col-md-4 mb16">
-                        <div id="facebook-title">
-                            <span class="e2">StayTuned</span>
-                        </div>
-                        <div class="fb-page" data-href="https://www.facebook.com/ACUGulliverSU/?ref=br_rs" data-tabs="timeline" data-width="" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/ACUGulliverSU/?ref=br_rs" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/ACUGulliverSU/?ref=br_rs">Acu Gulliver Sinistra Universitaria</a></blockquote></div>
                     </div>
                 </div>
             </div>
