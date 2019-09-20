@@ -127,13 +127,6 @@ a:hover{
     font-family:Raleway, sans-serif;
     font-size:16px;
 }
-#facebook-title{
-    display:block;
-    text-transform:uppercase;
-    font-size:23px;
-    cursor:pointer;
-    float: right;
-}
 
 #facebook-banner
 {
@@ -141,16 +134,4 @@ a:hover{
     margin-bottom: 0px!important;
     margin-top: 20px;
 }
-.fb-page{
-    float: right!important;
-}
 
-@media (max-width: 768) {
-    #facebook-title{
-        margin-top: -30px;
-        float: left;
-    }
-    .fb-page{
-        float: left!important;
-    }
-}

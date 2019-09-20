@@ -3002,3 +3002,16 @@ button.btn.btn-default.btn-trasparente.active:focus {border: 2px solid #FF8C00 !
     }
 }
 
+._2p3a{
+    width: 100%;
+}
+
+@media (max-width: 768px){
+    .row-eq-height{
+        margin-bottom: 0px!important;
+    }
+    #novita{
+        margin-bottom: -1px;
+    }
+
+}
