@@ -850,7 +850,7 @@
         Questo sito utilizza cookie tecnici, analytics e di terze parti. Proseguendo nella navigazione accetti
         l’utilizzo dei cookie.<br/>
         <button data-accept="cookiebar" class="btn btn-info mr-2 btn-verde">Accetto</button>
-        <a href="https://www.iubenda.com/privacy-policy/26313583" class="btn btn-outline-info btn-trasp">Privacy policy</a>
+        <a href="#" class="btn btn-outline-info btn-trasp">Privacy policy</a>
     </p>
 </div>
 
