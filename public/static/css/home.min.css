@@ -545,7 +545,7 @@
 @media (max-width: 767px) {
     #novita_evidenza {
         min-height: 0;
-        margin-bottom: 88px;
+        /*margin-bottom: 88px;*/
         min-height: 0
     }
 
@@ -672,6 +672,35 @@
 
     #servizi input::placeholder, #servizi input:-ms-input-placeholder, #servizi input::-ms-input-placeholder {
         font-size: 1em
+    }
+    /*Aggiunte custom */
+    #slider{
+        opacity: 0.3;
+    }
+    .novita-testo{
+        margin-top: -600px;
+    }
+
+    .novita-testo h2 a {
+        color: #ffffff;
+        background: #a90000;
+        line-height: 40px;
+    }
+
+    .novita-testo p {
+        font-family: 'Lora', serif;
+        color: #FFFFFF;
+        margin: 20px 0;
+        margin-right: 24px;
+        background: #a90000;
+    }
+    .tuttemain {
+        color: #ffffff!important;
+        background: #a90000!important;
+    }
+
+    .tuttemain svg{
+        fill: #FFFFFF!important;
     }
 }
 

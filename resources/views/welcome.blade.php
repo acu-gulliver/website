@@ -39,7 +39,7 @@
                                             {{$post->post_title}}
                                         </a></h2>
                                     <p>{!! substr(strip_tags($post->content),0,255) !!}</p>
-                                    <a href="{{url('/primapagina//')}}" title="Vai alla pagina: Tutte le novità" class="tutte">Tutte
+                                    <a href="{{url('/primapagina//')}}" title="Vai alla pagina: Tutte le novità" class="tutte tuttemain">Tutte
                                         le
                                         novità
                                         <svg class="icon">

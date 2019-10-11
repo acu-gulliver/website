@@ -316,13 +316,13 @@
                                 <a href="{{url('/appunti/appunti-economia//')}}" title="Vai alla pagina: Economia">Economia</a>
                             </li>
                             <li class="dropdownmobile">
-                                <a href="#" title="Vai alla pagina: Agraria">Agraria</a>
+                                <a href="{{url('/appunti/appunti-agraria//')}}" title="Vai alla pagina: Agraria">Agraria</a>
                             </li>
                             <li class="dropdownmobile">
-                                <a href="#" title="Vai alla pagina: Scienze">Scienze</a>
+                                <a href="{{url('/appunti/appunti-scienze//')}}" title="Vai alla pagina: Scienze">Scienze</a>
                             </li>
                             <li class="dropdownmobile">
-                                <a href="#" title="Vai alla pagina: Medicina">Medicina</a>
+                                <a href="{{url('/appunti/appunti-medicina//')}}" title="Vai alla pagina: Medicina">Medicina</a>
                             </li>
                         </ul>
                     </li>
@@ -619,9 +619,9 @@
                                     <a class="dropdown-item"
                                        href="{{url('/appunti/appunti-ingegneria/')}}" title="Vai alla pagina: Ingegneria">Ingegneria</a>
                                     <a class="dropdown-item" href="{{url('/appunti/appunti-economia/')}}" title="Vai alla pagina: Economia">Economia</a>
-                                    <a class="dropdown-item" href="{{url('/')}}" title="Vai alla pagina: Agraria">Agraria</a>
-                                    <a class="dropdown-item" href="{{url('/')}}" title="Vai alla pagina: Scienze">Scienze</a>
-                                    <a class="dropdown-item" href="{{url('/')}}" title="Vai alla pagina: Medicina">Medicina</a>
+                                    <a class="dropdown-item" href="{{url('/appunti/appunti-agraria/')}}" title="Vai alla pagina: Agraria">Agraria</a>
+                                    <a class="dropdown-item" href="{{url('/appunti/appunti-scienze/')}}" title="Vai alla pagina: Scienze">Scienze</a>
+                                    <a class="dropdown-item" href="{{url('/appunti/appunti-medicina/')}}" title="Vai alla pagina: Medicina">Medicina</a>
                                 </div>
                             </li>
                             <!--*****************-->
