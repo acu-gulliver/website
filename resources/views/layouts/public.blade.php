@@ -10,7 +10,7 @@
             baseTag.href = baseTag.href;
         })();
     </script><![endif]-->
-
+    <meta name="google-site-verification" content="yAQoW49qC8o0ZimTZnHHhPHeOJ8PSsxJrPozyFovAIk" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
