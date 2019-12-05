@@ -288,7 +288,7 @@
                                 <a href="{{url('/didattica//')}}" title="Vai alla pagina: Didattica">Didattica</a>
                             </li>
                             <li class="dropdownmobile">
-                                <a href="{{url('/dsu/condizione-studentati-2019//')}}" title="Vai alla pagina: Didattica">Condizione Studentesca 2019</a>
+                                <a href="{{url('/primapagina/indagine-condizione-studentati-2019/')}}" title="Vai alla pagina: Didattica">Condizione Studentesca 2019</a>
                             </li>
                         </ul>
                     </li>
@@ -593,7 +593,7 @@
                                     <a class="dropdown-item"
                                        href="{{url('/didattica/')}}" title="Vai alla pagina: Didattica">Didattica</a>
                                     <a class="dropdown-item"
-                                       href="{{url('/dsu/condizione-studentati-2019/')}}" title="Vai alla pagina: Condizione Studentati 2019">Condizione Studentati 2019</a>
+                                       href="{{url('/primapagina/indagine-condizione-studentati-2019')}}" title="Vai alla pagina: Condizione Studentati 2019">Condizione Studentati 2019</a>
                                 </div>
                             </li>
                             <!--*****************-->
