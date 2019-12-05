@@ -74,7 +74,7 @@
     <!--Inclusione facebook-->
 
     <!--  Link per google search console -->
-    <meta name="google-site-verification" content="jNlc15xV5qEIphuzlkp2Mz5C14vgCwAxy0up738pNOE" />
+    <meta name="google-site-verification" content="yAQoW49qC8o0ZimTZnHHhPHeOJ8PSsxJrPozyFovAIk" />
     <!--  Link per google search console -->
 
     <link rel="apple-touch-icon" sizes="57x57" href="{{asset('static/img/apple-icon-57x57.png')}}"/>
