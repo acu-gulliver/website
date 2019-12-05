@@ -73,6 +73,10 @@
             src="https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v4.0"></script>
     <!--Inclusione facebook-->
 
+    <!--  Link per google search console -->
+    <meta name="google-site-verification" content="jNlc15xV5qEIphuzlkp2Mz5C14vgCwAxy0up738pNOE" />
+    <!--  Link per google search console -->
+
     <link rel="apple-touch-icon" sizes="57x57" href="{{asset('static/img/apple-icon-57x57.png')}}"/>
     <link rel="apple-touch-icon" sizes="60x60" href="{{asset('static/img/apple-icon-60x60.png')}}"/>
     <link rel="apple-touch-icon" sizes="72x72" href="{{asset('static/img/apple-icon-72x72.png')}}"/>
