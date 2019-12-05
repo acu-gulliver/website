@@ -73,6 +73,10 @@
             src="https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v4.0"></script>
     <!--Inclusione facebook-->
 
+    <!--  Link per google search console -->
+    <meta name="google-site-verification" content="yAQoW49qC8o0ZimTZnHHhPHeOJ8PSsxJrPozyFovAIk" />
+    <!--  Link per google search console -->
+
     <link rel="apple-touch-icon" sizes="57x57" href="{{asset('static/img/apple-icon-57x57.png')}}"/>
     <link rel="apple-touch-icon" sizes="60x60" href="{{asset('static/img/apple-icon-60x60.png')}}"/>
     <link rel="apple-touch-icon" sizes="72x72" href="{{asset('static/img/apple-icon-72x72.png')}}"/>
@@ -287,11 +291,14 @@
                             <li class="dropdownmobile">
                                 <a href="{{url('/didattica//')}}" title="Vai alla pagina: Didattica">Didattica</a>
                             </li>
+                            <li class="dropdownmobile">
+                                <a href="{{url('/primapagina/indagine-condizione-studentati-2019/')}}" title="Vai alla pagina: Didattica">Condizione Studentesca 2019</a>
+                            </li>
                         </ul>
                     </li>
 
                     <li class="openmenu">
-                        <a href="#" title="Vai alla pagina: Tasse,DSU,Didattica">Attività</a>
+                        <a href="#" title="Vai alla pagina: Eventi">Attività</a>
                         <ul class="navmenu navdropdown">
                             <li class="dropdownmobile">
                                 <a href="{{url('/associazione/gulliverock-festival//')}}"
@@ -307,7 +314,7 @@
                         </ul>
                     </li>
                     <li class="openmenu">
-                        <a href="#" title="Vai alla pagina: Tasse,DSU,Didattica">Appunti</a>
+                        <a href="#" title="Vai alla pagina: Appunti">Appunti</a>
                         <ul class="navmenu navdropdown">
                             <li class="dropdownmobile">
                                 <a href="{{url('/appunti/appunti-ingegneria//')}}" title="Vai alla pagina: Ingegneria">Ingegneria</a>
@@ -327,7 +334,7 @@
                         </ul>
                     </li>
                     <li class="openmenu">
-                        <a href="#" title="Vai alla pagina: Tasse,DSU,Didattica">Utility</a>
+                        <a href="#" title="Vai alla pagina: Utilita">Utility</a>
                         <ul class="navmenu navdropdown">
                             <li class="dropdownmobile">
                                 <a href="https://nia-dotnet.univpm.it/simulatore-tasse/"
@@ -589,6 +596,8 @@
                                         Studio</a>
                                     <a class="dropdown-item"
                                        href="{{url('/didattica/')}}" title="Vai alla pagina: Didattica">Didattica</a>
+                                    <a class="dropdown-item"
+                                       href="{{url('/primapagina/indagine-condizione-studentati-2019')}}" title="Vai alla pagina: Condizione Studentati 2019">Condizione Studentati 2019</a>
                                 </div>
                             </li>
                             <!--*****************-->
