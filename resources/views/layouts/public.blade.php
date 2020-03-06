@@ -301,6 +301,10 @@
                         <a href="#" title="Vai alla pagina: Eventi">Attività</a>
                         <ul class="navmenu navdropdown">
                             <li class="dropdownmobile">
+                                <a href="{{url('/associazione//associazione/xxix-gulliver-rock-festival-giugno-2020//')}}"
+                                   title="Vai alla pagina: Guida alle tasse e ISEE">GulliveRock2020</a>
+                            </li>
+                            <li class="dropdownmobile">
                                 <a href="{{url('/associazione/gulliverock-festival//')}}"
                                    title="Vai alla pagina: Guida alle tasse e ISEE">GulliveRock</a>
                             </li>
@@ -608,6 +612,9 @@
                                     Attività
                                 </p>
                                 <div class="dropdown-menu sm-menu">
+                                    <a class="dropdown-item"
+                                       href="{{url('/associazione/xxix-gulliver-rock-festival-giugno-2020/')}}"
+                                       title="Vai alla pagina: GulliveRock">GulliveRock2020</a>
                                     <a class="dropdown-item"
                                        href="{{url('/associazione/gulliverock-festival/')}}"
                                        title="Vai alla pagina: GulliveRock">GulliveRock</a>
