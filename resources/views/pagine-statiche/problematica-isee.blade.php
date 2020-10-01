@@ -380,58 +380,7 @@
 
                                 </div>
                             </div>
-                            <div class="row">
-                                <div class="offset-md-1 col-md-11 paragrafo">
-                                    <a id="allegati"> </a>
-                                    <h4>Allegati</h4>
-                                </div>
-                            </div>
-
-                            {{-- ALLEGATI --}}
-
-
-                            <div class="row schede profilo-dettaglio-testo">
-                                <div class="offset-md-1 col-md-11">
-                                    <div class="row allegati-riga">
-                                        <div class="col-md-6">
-                                            <article class="allegato">
-                                                <div class="scheda-allegato">
-                                                    <svg class="icon">
-                                                        <use
-                                                            xlink:href="static/img/ponmetroca.svg#ca-attach_file"></use>
-                                                    </svg>
-                                                    <h4>
-                                                        <a href="#"
-                                                           title="Scarica il file Lo speciale di National Geographic sulle regate in Sardegna">
-                                                            Lo speciale di National Geographic sulle regate in
-                                                            Sardegna
-                                                        </a><br/>
-                                                        <span></span>
-                                                    </h4>
-                                                </div>
-                                            </article>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <article class="allegato">
-                                                <div class="scheda-allegato">
-                                                    <svg class="icon">
-                                                        <use
-                                                            xlink:href="static/img/ponmetroca.svg#ca-attach_file"></use>
-                                                    </svg>
-                                                    <h4>
-                                                        <a href="#"
-                                                           title="Scarica il file Le rotte del mare: porti e approdi sulle coste dell'Isola">
-                                                            Le rotte del mare: porti e approdi sulle coste
-                                                            dell'Isola
-                                                        </a><br/>
-                                                        <span></span>
-                                                    </h4>
-                                                </div>
-                                            </article>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                        
 
                         </div>
                     </div>
