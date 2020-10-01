@@ -86,8 +86,7 @@
                                    title="Vai al paragrafo Allegati">Situazioni particolari del nucleo familiare</a>
                                 <a class="list-group-item list-group-item-action" href="#step-6"
                                    title="Vai al paragrafo Allegati">Avvertenze finali e conferma dei dati</a>
-                                <a class="list-group-item list-group-item-action" href="#allegati"
-                                   title="Vai al paragrafo Allegati">Allegati</a>
+                           
                             </div>
                         </aside>
                     </div>
