@@ -65,6 +65,7 @@
           rel="stylesheet"/>
     <link href="{{url('https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.css')}}" rel="stylesheet"/>
     <link rel="stylesheet" href="{{asset('static/css/calendario.css')}}"/>
+    <link href="{{asset('static/css/interne.css')}}" rel="stylesheet" type="text/css"/>
     <!--Inclusione calendario-->
 
 
