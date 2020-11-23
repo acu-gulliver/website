@@ -528,6 +528,9 @@
                                     Rappresentanza
                                 </p>
                                 <div class="dropdown-menu sm-menu">
+                                    <a class="dropdown-item" href="{{url('/elezioni-universitarie-2020/')}}"
+                                       title="Vai alla pagina: Elezioni 2020">Elezioni Universitarie
+                                        2020</a>
                                     <a class="dropdown-item" href="{{url('/cnsu/')}}"
                                        title="Vai alla pagina: Elezioni CNSU">Elezioni CNSU
                                         2019</a>
