@@ -2,24 +2,21 @@
 
 <html lang="it">
 <head>
-    <!-- <base href="https://prototipo.comune.cagliari.it/"> -->
-    <!--[if IE]>
-    <script type="text/javascript">
-        (function () {
-            var baseTag = document.getElementsByTagName('base')[0];
-            baseTag.href = baseTag.href;
-        })();
-    </script><![endif]-->
-    <meta name="google-site-verification" content="yAQoW49qC8o0ZimTZnHHhPHeOJ8PSsxJrPozyFovAIk" />
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-K68D62C');</script>
+    <!-- End Google Tag Manager -->
+
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-
     <meta property="og:image" content="http://www.gulliver.univpm.it/panel/calcolo_tasse/logo_veliero.png">
 
-
     <title>Gulliver - Associazione Culturale Universitaria Ancona Univpm</title><!-- leave this for stats -->
-
 
     <meta name="description"
           content="Sito dell\&#039;Associazione Culturale Universitaria Gulliver e della Lista Gulliver - Sinistra Universitaria - Ancona"/>
@@ -27,10 +24,8 @@
     <meta name="keywords"
           content="Gulliver, Sinistra Universitaria, Ancona, Diritto allo Studio, Cercalloggio, Gulliver - Sinistra Universitaria, Univpm, Università Politecnica delle Marche, Didattica, DM 270, Carnevale Gulliver, Gulliverock Festival, Attività Culturali, Via Saffi Ancona, Tesseramento Gulliver, Politica Universitaria, Tasse Universitarie, Tassa personalizzata"/>
 
-
     <link rel="canonical" href="https://www.gulliver.univpm.it/"/>
     <link rel='dns-prefetch' href='https://www.gulliver.univpm.it'/>
-
 
     <!--/ Facebook Thumb Fixer Open Graph /-->
     <meta property="og:type" content="website"/>
@@ -38,20 +33,20 @@
     <meta property="og:title" content="Gulliver"/>
     <meta property="og:description" content="Associazione Culturale Universitaria"/>
     <meta property="og:site_name" content="Gulliver"/>
-    <meta property="og:image" content="http://www.gulliver.univpm.it/calcolo_tasse/logo_veliero.png"/>
+    <meta property="og:image" content="https://www.gulliver.univpm.it/calcolo_tasse/logo_veliero.png"/>
     <meta property="og:image:alt" content="Logo Gulliver associazione culturale universitaria Ancona Univpm"/>
     <meta property="og:image:width" content=""/>
     <meta property="og:image:height" content=""/>
 
     <meta itemscope itemtype="website"/>
     <meta itemprop="description" content="Associazione Culturale Universitaria"/>
-    <meta itemprop="image" content="http://www.gulliver.univpm.it/calcolo_tasse/logo_veliero.png"/>
+    <meta itemprop="image" content="https://www.gulliver.univpm.it/calcolo_tasse/logo_veliero.png"/>
 
     <meta name="twitter:card" content="summary_large_image"/>
     <meta name="twitter:url" content="https://www.gulliver.univpm.it/panel"/>
     <meta name="twitter:title" content="Gulliver"/>
     <meta name="twitter:description" content="Associazione Culturale Universitaria"/>
-    <meta name="twitter:image" content="http://www.gulliver.univpm.it/calcolo_tasse/logo_veliero.png"/>
+    <meta name="twitter:image" content="https://www.gulliver.univpm.it/calcolo_tasse/logo_veliero.png"/>
 
 
     <!--Inclusione calendario-->
@@ -72,10 +67,6 @@
     <script async defer crossorigin="anonymous"
             src="https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v4.0"></script>
     <!--Inclusione facebook-->
-
-    <!--  Link per google search console -->
-    <meta name="google-site-verification" content="yAQoW49qC8o0ZimTZnHHhPHeOJ8PSsxJrPozyFovAIk" />
-    <!--  Link per google search console -->
 
     <link rel="apple-touch-icon" sizes="57x57" href="{{asset('static/img/apple-icon-57x57.png')}}"/>
     <link rel="apple-touch-icon" sizes="60x60" href="{{asset('static/img/apple-icon-60x60.png')}}"/>
@@ -108,7 +99,11 @@
     @yield('css')
 </head>
 <body class="push-body" data-ng-app="ponmetroca">
-<!-- Google Tag Manager -->
+
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K68D62C"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
 <div class="body_wrapper push_container clearfix" id="page_top">
 
     <!--[if lt IE 8]>
