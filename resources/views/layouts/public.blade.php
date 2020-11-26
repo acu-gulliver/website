@@ -75,11 +75,13 @@
           integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <script>window.__PUBLIC_PATH__ = 'static/font'</script>
 
+    <script src="{{asset('vendor/js/jqueryV1.min.js')}}"></script>
+
 
 
     <link rel="stylesheet" href="{{asset('build/gulliver.min.css')}}">
 
-    <script rel="stylesheet" src="{{asset('build/gulliver.min.css')}}">
+    <script src="{{asset('build/gulliver.min.css')}}"></script>
 
     @yield('css')
 </head>
