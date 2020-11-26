@@ -76,7 +76,7 @@
     <script>window.__PUBLIC_PATH__ = 'static/font'</script>
 
     <script src="{{asset('vendor/js/jqueryV1.min.js')}}"></script>
-
+    <script src="{{asset('vendor/js/vegas.js')}}"></script>
 
 
     <link rel="stylesheet" href="{{asset('build/gulliver.min.css')}}">

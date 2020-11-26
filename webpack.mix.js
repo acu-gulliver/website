@@ -35,7 +35,6 @@ mix.styles([
 
 
 mix.scripts([
-  'public/vendor/js/vegas.js',
   'public/static/js/jquery-3.3.1.min.js',
   'public/static/js/popper.min.js',
   'public/static/js/bootstrap-italia.bundle_1.2.0.min.js',
