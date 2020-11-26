@@ -75,14 +75,11 @@
           integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <script>window.__PUBLIC_PATH__ = 'static/font'</script>
 
-    <!-- Link di riferimento per libreria slider-->
 
-    <script src="{{url('https://code.jquery.com/jquery.min.js')}}"></script>
-    <script src="{{url('https://cdnjs.cloudflare.com/ajax/libs/vegas/2.4.4/vegas.js')}}"></script>
-    <!--*****************************************-->
 
     <link rel="stylesheet" href="{{asset('build/gulliver.min.css')}}">
 
+    <link rel="stylesheet" href="{{asset('build/gulliver.min.css')}}">
 
     @yield('css')
 </head>
@@ -805,24 +802,7 @@
 </div>
 
 
-<link href="{{asset('static/css/jquery-ui.css')}}" rel="stylesheet" type="text/css"/>
-<link href="{{asset('static/css/owl.carousel.min.css')}}" rel="stylesheet" type="text/css"/>
-<link href="{{asset('static/css/owl.theme.default.min.css')}}" rel="stylesheet" type="text/css"/>
-<link href="{{asset('static/css/home.min.css')}}" rel="stylesheet" type="text/css"/>
-<link href="{{asset('static/css/bricklayer.min.css')}}" rel="stylesheet" type="text/css"/>
-<script src="{{asset('static/js/jquery-3.3.1.min.js')}}"></script>
-<script src="{{asset('static/js/popper.min.js')}}"></script>
-<script src="{{asset('static/js/bootstrap-italia.bundle_1.2.0.min.js')}}"></script>
-<script src="{{asset('static/js/cagliari.min.js')}}"></script>
-<script src="{{asset('static/js/jquery-ui.js')}}"></script>
-<script src="{{asset('static/js/i18n/datepicker-it.js')}}"></script>
-<script src="{{asset('static/js/bricklayer.min.js')}}"></script>
-<script src="{{asset('static/js/calendario.js')}}"></script>
-<!--Inclusione slider javascript-->
-<script src="{{url('https://zeptojs.com/zepto.min.js')}}"></script>
-<!--Inclusione slider javascript-->
 
-<script src="{{asset('static/js/owl.carousel.min.js')}}"></script>
 
 <script>
     $(document).ready(function () {
