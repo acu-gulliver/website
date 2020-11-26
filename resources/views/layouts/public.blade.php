@@ -71,6 +71,8 @@
     <link rel="icon" type="image/png" href="{{asset('static/img/android-chrome-192x192.png')}}" sizes="192x192"/>
     <link rel="icon" type="image/png" href="{{asset('static/img/favicon-96x96.png')}}" sizes="96x96"/>
     <link rel="icon" type="image/png" href="{{asset('static/img/favicon-16x16.png')}}" sizes="16x16"/>
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
+          integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <script>window.__PUBLIC_PATH__ = 'static/font'</script>
 
     <!-- Link di riferimento per libreria slider-->

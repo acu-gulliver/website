@@ -20,7 +20,6 @@ const mix = require('laravel-mix');
 mix.styles([
   'public/vendor/css/bootstrap.css',
   'public/vendor/css/jquery-ui.css',
-  'public/vendor/css/font-awesome.min.css',
   'public/vendor/css/vegas.min.css',
   'public/static/css/calendario.css',
   'public/static/css/interne.css',
