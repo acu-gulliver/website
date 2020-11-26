@@ -1102,7 +1102,7 @@ ul.navmenu {
     font-size: 20px;
     text-align: center;
     margin-left:   15px !important;
-    background: url("/static/css/arrowdown.svg");
+    background: url("arrowdown.svg");
 }
 
 .navmenu li > a > span:after {
@@ -2599,7 +2599,7 @@ button.btn.btn-default.btn-trasparente.active:focus {
     .modal-backdrop.show {
         opacity: 0 !important
     }
-
+    
 }
 
 @media (max-width: 1090px) {
@@ -3182,3 +3182,4 @@ ul.navdropdown{
 .wp-block-image img {
     width:100% !important;
 }
+

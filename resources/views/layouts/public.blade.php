@@ -53,10 +53,30 @@
     <meta name="twitter:description" content="Associazione Culturale Universitaria"/>
     <meta name="twitter:image" content="https://www.gulliver.univpm.it/calcolo_tasse/logo_veliero.png"/>
 
+
+    <!--Inclusione calendario-->
+    <script
+        src="{{url('https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta.3/js/bootstrap.js')}}"></script>
+    <script src="{{url('https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js')}}"></script>
+    <script src="{{url('https://cdnjs.cloudflare.com/ajax/libs/FitText.js/1.2.0/jquery.fittext.js')}}"></script>
+    <script src="{{url('https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.js')}}"></script>
+    <script src="{{url('https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment.js')}}"></script>
+    <link href="{{url('https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta.3/css/bootstrap.css')}}"
+          rel="stylesheet"/>
+    <link href="{{url('https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.css')}}" rel="stylesheet"/>
+    <link rel="stylesheet" href="{{asset('static/css/calendario.css')}}"/>
+    <link href="{{asset('static/css/interne.css')}}" rel="stylesheet" type="text/css"/>
+    <!--Inclusione calendario-->
+
+
     <div id="fb-root"></div>
     <script async defer crossorigin="anonymous"
             src="https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v4.0"></script>
     <!--Inclusione facebook-->
+
+    <!--  Link per google search console -->
+    <meta name="google-site-verification" content="yAQoW49qC8o0ZimTZnHHhPHeOJ8PSsxJrPozyFovAIk" />
+    <!--  Link per google search console -->
 
     <link rel="apple-touch-icon" sizes="57x57" href="{{asset('static/img/apple-icon-57x57.png')}}"/>
     <link rel="apple-touch-icon" sizes="60x60" href="{{asset('static/img/apple-icon-60x60.png')}}"/>
@@ -73,15 +93,18 @@
     <link rel="icon" type="image/png" href="{{asset('static/img/favicon-16x16.png')}}" sizes="16x16"/>
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
           integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{asset('static/css/bootstrap-italia_1.2.0.min.css')}}"/>
+    <link rel="stylesheet" href="{{asset('static/css/titilliumwebfont.css')}}"/>
     <script>window.__PUBLIC_PATH__ = 'static/font'</script>
 
-    <script src="{{asset('vendor/js/jqueryV1.min.js')}}"></script>
-    <script src="{{asset('vendor/js/vegas.js')}}"></script>
+    <!-- Link di riferimento per libreria slider-->
+    <link rel="stylesheet" href="{{url('https://cdnjs.cloudflare.com/ajax/libs/vegas/2.4.4/vegas.min.css')}}">
+    <script src="{{url('https://code.jquery.com/jquery.min.js')}}"></script>
+    <script src="{{url('https://cdnjs.cloudflare.com/ajax/libs/vegas/2.4.4/vegas.js')}}"></script>
+    <!--*****************************************-->
 
-
-    <link rel="stylesheet" href="{{asset('build/gulliver.min.css')}}">
-
-    <script src="{{asset('build/gulliver.min.css')}}"></script>
+    <link href="{{asset('static/css/cagliari.min.css')}}" rel="stylesheet" type="text/css"/>
+    <link href="{{asset('static/css/cagliari-print.min.css')}}" rel="stylesheet" type="text/css"/>
 
     @yield('css')
 </head>
@@ -804,7 +827,24 @@
 </div>
 
 
+<link href="{{asset('static/css/jquery-ui.css')}}" rel="stylesheet" type="text/css"/>
+<link href="{{asset('static/css/owl.carousel.min.css')}}" rel="stylesheet" type="text/css"/>
+<link href="{{asset('static/css/owl.theme.default.min.css')}}" rel="stylesheet" type="text/css"/>
+<link href="{{asset('static/css/home.min.css')}}" rel="stylesheet" type="text/css"/>
+<link href="{{asset('static/css/bricklayer.min.css')}}" rel="stylesheet" type="text/css"/>
+<script src="{{asset('static/js/jquery-3.3.1.min.js')}}"></script>
+<script src="{{asset('static/js/popper.min.js')}}"></script>
+<script src="{{asset('static/js/bootstrap-italia.bundle_1.2.0.min.js')}}"></script>
+<script src="{{asset('static/js/cagliari.min.js')}}"></script>
+<script src="{{asset('static/js/jquery-ui.js')}}"></script>
+<script src="{{asset('static/js/i18n/datepicker-it.js')}}"></script>
+<script src="{{asset('static/js/bricklayer.min.js')}}"></script>
+<script src="{{asset('static/js/calendario.js')}}"></script>
+<!--Inclusione slider javascript-->
+<script src="{{url('https://zeptojs.com/zepto.min.js')}}"></script>
+<!--Inclusione slider javascript-->
 
+<script src="{{asset('static/js/owl.carousel.min.js')}}"></script>
 
 <script>
     $(document).ready(function () {
