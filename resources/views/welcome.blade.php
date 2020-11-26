@@ -88,7 +88,9 @@
                             </div>
                         @empty
                         @endforelse
-                        <div class="fb-page" data-href="https://www.facebook.com/ACUGulliverSU/?ref=br_rs" data-tabs="timeline" data-width="" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/ACUGulliverSU/?ref=br_rs" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/ACUGulliverSU/?ref=br_rs">Acu Gulliver Sinistra Universitaria</a></blockquote></div>
+                        <div class="col-md-3">
+                          <div class="fb-page" data-href="https://www.facebook.com/ACUGulliverSU/?ref=br_rs" data-tabs="timeline" data-width="" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/ACUGulliverSU/?ref=br_rs" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/ACUGulliverSU/?ref=br_rs">Acu Gulliver Sinistra Universitaria</a></blockquote></div>
+                        </div>
                     </div>
                 </div>
             </div>
