@@ -79,7 +79,7 @@
 
     <link rel="stylesheet" href="{{asset('build/gulliver.min.css')}}">
 
-    <link rel="stylesheet" href="{{asset('build/gulliver.min.css')}}">
+    <script rel="stylesheet" src="{{asset('build/gulliver.min.css')}}">
 
     @yield('css')
 </head>
