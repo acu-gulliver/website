@@ -4,11 +4,19 @@
 <head>
 
     <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-K68D62C');</script>
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-K68D62C');</script>
     <!-- End Google Tag Manager -->
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
@@ -51,7 +59,7 @@
 
     <!--Inclusione calendario-->
     <script
-        src="{{url('https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta.3/js/bootstrap.js')}}"></script>
+            src="{{url('https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta.3/js/bootstrap.js')}}"></script>
     <script src="{{url('https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js')}}"></script>
     <script src="{{url('https://cdnjs.cloudflare.com/ajax/libs/FitText.js/1.2.0/jquery.fittext.js')}}"></script>
     <script src="{{url('https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.js')}}"></script>
@@ -100,10 +108,12 @@
 </head>
 <body class="push-body" data-ng-app="ponmetroca">
 
-  <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K68D62C"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K68D62C"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
 <div class="body_wrapper push_container clearfix" id="page_top">
 
     <!--[if lt IE 8]>
@@ -287,7 +297,8 @@
                                 <a href="{{url('/didattica//')}}" title="Vai alla pagina: Didattica">Didattica</a>
                             </li>
                             <li class="dropdownmobile">
-                                <a href="{{url('/primapagina/indagine-condizione-studentati-2019/')}}" title="Vai alla pagina: Didattica">Condizione Studentesca 2019</a>
+                                <a href="{{url('/primapagina/indagine-condizione-studentati-2019/')}}"
+                                   title="Vai alla pagina: Didattica">Condizione Studentesca 2019</a>
                             </li>
                         </ul>
                     </li>
@@ -318,10 +329,12 @@
                                 <a href="{{url('/appunti/appunti-economia//')}}" title="Vai alla pagina: Economia">Economia</a>
                             </li>
                             <li class="dropdownmobile">
-                                <a href="{{url('/appunti/appunti-agraria//')}}" title="Vai alla pagina: Agraria">Agraria</a>
+                                <a href="{{url('/appunti/appunti-agraria//')}}"
+                                   title="Vai alla pagina: Agraria">Agraria</a>
                             </li>
                             <li class="dropdownmobile">
-                                <a href="{{url('/appunti/appunti-scienze//')}}" title="Vai alla pagina: Scienze">Scienze</a>
+                                <a href="{{url('/appunti/appunti-scienze//')}}"
+                                   title="Vai alla pagina: Scienze">Scienze</a>
                             </li>
                             <li class="dropdownmobile">
                                 <a href="{{url('/appunti/appunti-medicina//')}}" title="Vai alla pagina: Medicina">Medicina</a>
@@ -592,7 +605,9 @@
                                     <a class="dropdown-item"
                                        href="{{url('/didattica/')}}" title="Vai alla pagina: Didattica">Didattica</a>
                                     <a class="dropdown-item"
-                                       href="{{url('/primapagina/indagine-condizione-studentati-2019')}}" title="Vai alla pagina: Condizione Studentati 2019">Condizione Studentati 2019</a>
+                                       href="{{url('/primapagina/indagine-condizione-studentati-2019')}}"
+                                       title="Vai alla pagina: Condizione Studentati 2019">Condizione Studentati
+                                        2019</a>
                                 </div>
                             </li>
                             <!--*****************-->
@@ -621,11 +636,16 @@
                                 </p>
                                 <div class="dropdown-menu sm-menu">
                                     <a class="dropdown-item"
-                                       href="{{url('/appunti/appunti-ingegneria/')}}" title="Vai alla pagina: Ingegneria">Ingegneria</a>
-                                    <a class="dropdown-item" href="{{url('/appunti/appunti-economia/')}}" title="Vai alla pagina: Economia">Economia</a>
-                                    <a class="dropdown-item" href="{{url('/appunti/appunti-agraria/')}}" title="Vai alla pagina: Agraria">Agraria</a>
-                                    <a class="dropdown-item" href="{{url('/appunti/appunti-scienze/')}}" title="Vai alla pagina: Scienze">Scienze</a>
-                                    <a class="dropdown-item" href="{{url('/appunti/appunti-medicina/')}}" title="Vai alla pagina: Medicina">Medicina</a>
+                                       href="{{url('/appunti/appunti-ingegneria/')}}"
+                                       title="Vai alla pagina: Ingegneria">Ingegneria</a>
+                                    <a class="dropdown-item" href="{{url('/appunti/appunti-economia/')}}"
+                                       title="Vai alla pagina: Economia">Economia</a>
+                                    <a class="dropdown-item" href="{{url('/appunti/appunti-agraria/')}}"
+                                       title="Vai alla pagina: Agraria">Agraria</a>
+                                    <a class="dropdown-item" href="{{url('/appunti/appunti-scienze/')}}"
+                                       title="Vai alla pagina: Scienze">Scienze</a>
+                                    <a class="dropdown-item" href="{{url('/appunti/appunti-medicina/')}}"
+                                       title="Vai alla pagina: Medicina">Medicina</a>
                                 </div>
                             </li>
                             <!--*****************-->
@@ -636,20 +656,25 @@
                                     Utility
                                 </p>
                                 <div class="dropdown-menu sm-menu">
-                                    <a class="dropdown-item" href="https://nia-dotnet.univpm.it/simulatore-tasse/" title="Vai alla pagina: Calcolatore tasse">Calcolatore
+                                    <a class="dropdown-item" href="https://nia-dotnet.univpm.it/simulatore-tasse/"
+                                       title="Vai alla pagina: Calcolatore tasse">Calcolatore
                                         tasse</a>
                                     <a class="dropdown-item"
-                                       href="{{url('/utilita/kit-dello-studente/')}}" title="Vai alla pagina: Kit dello studente">Kit dello
+                                       href="{{url('/utilita/kit-dello-studente/')}}"
+                                       title="Vai alla pagina: Kit dello studente">Kit dello
                                         studente</a>
                                     <a class="dropdown-item"
-                                       href="{{url('/rappresentanti-degli-studenti/diritto-allo-studio-univpm/')}}" title="Vai alla pagina: Guida erdis">Guida
+                                       href="{{url('/rappresentanti-degli-studenti/diritto-allo-studio-univpm/')}}"
+                                       title="Vai alla pagina: Guida erdis">Guida
                                         Erdis</a>
-                                    <a class="dropdown-item" href="{{url('/')}}" title="Vai alla pagina: Download">Tutti i download</a>
+                                    <a class="dropdown-item" href="{{url('/')}}" title="Vai alla pagina: Download">Tutti
+                                        i download</a>
                                 </div>
                             </li>
                             <!--*****************-->
                             <li class="nav-item">
-                                <a class="nav-link" href="{{url('/comunicato-stampa/')}}" title="Vai alla pagina: Comunicati">Comunicati
+                                <a class="nav-link" href="{{url('/comunicato-stampa/')}}"
+                                   title="Vai alla pagina: Comunicati">Comunicati
                                     stampa</a>
                             </li>
                             <li>
@@ -762,11 +787,11 @@
                         </h4>
                         <ul class="footer-list clearfix">
                             <li><a href="https://www.facebook.com/ACUGulliverSU/" title="Vai alla pagina: Facebook"><i
-                                        class="fa fa-facebook-official"></i> Facebook</a></li>
+                                            class="fa fa-facebook-official"></i> Facebook</a></li>
                             <li><a href="https://www.instagram.com/acu_gulliver/" title="Vai alla pagina: Instagram"><i
-                                        class="fa fa-instagram"></i> Instagram</a></li>
+                                            class="fa fa-instagram"></i> Instagram</a></li>
                             <li><a href="https://telegram.me/ACUGulliver" title="Vai alla pagina: Telegram"><i
-                                        class="fa fa-telegram"></i> Telegram</a></li>
+                                            class="fa fa-telegram"></i> Telegram</a></li>
                             <li><a href="https://www.youtube.com/user/GULLIVERancona"
                                    title="Vai alla pagina: Youtube"><i class="fa fa-youtube"></i> Youtube</a></li>
                         </ul>
@@ -802,19 +827,15 @@
 </div>
 
 
-<link href="{{asset('static/css/jquery-ui.css')}}" rel="stylesheet" type="text/css"/>
+<!--<link href="{{asset('static/css/jquery-ui.css')}}" rel="stylesheet" type="text/css"/>
 <link href="{{asset('static/css/owl.carousel.min.css')}}" rel="stylesheet" type="text/css"/>
 <link href="{{asset('static/css/owl.theme.default.min.css')}}" rel="stylesheet" type="text/css"/>
 <link href="{{asset('static/css/home.min.css')}}" rel="stylesheet" type="text/css"/>
-<link href="{{asset('static/css/bricklayer.min.css')}}" rel="stylesheet" type="text/css"/>
-<script src="{{asset('static/js/jquery-3.3.1.min.js')}}"></script>
-<script src="{{asset('static/js/popper.min.js')}}"></script>
-<script src="{{asset('static/js/bootstrap-italia.bundle_1.2.0.min.js')}}"></script>
-<script src="{{asset('static/js/cagliari.min.js')}}"></script>
-<script src="{{asset('static/js/jquery-ui.js')}}"></script>
-<script src="{{asset('static/js/i18n/datepicker-it.js')}}"></script>
-<script src="{{asset('static/js/bricklayer.min.js')}}"></script>
-<script src="{{asset('static/js/calendario.js')}}"></script>
+<link href="{{asset('static/css/bricklayer.min.css')}}" rel="stylesheet" type="text/css"/>-->
+
+<link href="{{asset('build/css/gulliver.min.css')}}" rel="stylesheet" type="text/css"/>
+<script src="{{asset('build/gulliver.min.js')}}"></script>
+
 <!--Inclusione slider javascript-->
 <script src="{{url('https://zeptojs.com/zepto.min.js')}}"></script>
 <!--Inclusione slider javascript-->
