@@ -11,5 +11,20 @@ const mix = require('laravel-mix');
  |
  */
 
-mix.js('resources/js/app.js', 'public/js')
-   .sass('resources/sass/app.scss', 'public/css');
+mix.styles([
+    'public/static/css/jquery-ui.css',
+    'public/static/css/owl.carousel.min.css',
+    'public/static/css/owl.theme.default.min.css',
+    'public/static/css/home.min.css',
+    'public/static/css/bricklayer.min.css',
+],'public/build/gulliver.min.css');
+
+mix.js([
+    'public/static/js/jquery-3.3.1.min.js',
+    'public/static/js/popper.min.js',
+    'public/static/js/bootstrap-italia.bundle_1.2.0.min.js',
+    'public/static/js/cagliari.min.js',
+    'public/static/js/jquery-ui.js',
+    'public/static/js/bricklayer.min.js',
+    'public/static/js/calendario.js'
+], 'public/build/gulliver.min.js')
