@@ -269,6 +269,10 @@
                                    title="Vai alla pagina: I rappresentanti">I Rappresentanti</a>
                             </li>
                             <li class="dropdownmobile">
+                                <a href="{{url('/consiglio-studentesco-2/consiglio-studentesco-2020-2022//')}}"
+                                   title="Vai alla pagina: Consiglio Studentesco 20/22">Consiglio Studentesco 20/22</a>
+                            </li>
+                            <li class="dropdownmobile">
                                 <a href="{{url('/consiglio-studentesco-2/consiglio-studentesco-20182020//')}}"
                                    title="Vai alla pagina: Consiglio Studentesco 18/19">Consiglio Studentesco 18/20</a>
                             </li>
@@ -359,6 +363,10 @@
                             <li class="dropdownmobile">
                                 <a href="{{url('/rappresentanti-degli-studenti/diritto-allo-studio-univpm//')}}"
                                    title="Vai alla pagina: Guida Erdis">Guida ERDIS</a>
+                            </li>
+                            <li class="dropdownmobile">
+                                <a href="{{url('/utilita/percorso-formativo-24-cfu//')}}"
+                                   title="Vai alla pagina: PF 24">PF 24</a>
                             </li>
                             <li class="dropdownmobile">
                                 <a href="#" title="Vai alla pagina: Moduli e Documentazione">Moduli e Documentazione</a>
@@ -576,6 +584,10 @@
                                        href="{{url('/consiglio-studentesco/i-rappresentanti/')}}"
                                        title="Vai alla pagina: Rappresentanti">I
                                         rappresentanti</a>
+                                        <a class="dropdown-item"
+                                       href="{{url('/consiglio-studentesco-2/consiglio-studentesco-2020-2022/')}}"
+                                       title="Vai alla pagina: Consiglio studentesco">Consiglio
+                                        Studentesco 2020-2022</a>
                                     <a class="dropdown-item"
                                        href="{{url('/consiglio-studentesco-2/consiglio-studentesco-20182020/')}}"
                                        title="Vai alla pagina: Consiglio studentesco">Consiglio
@@ -675,6 +687,9 @@
                                        href="{{url('/rappresentanti-degli-studenti/diritto-allo-studio-univpm/')}}"
                                        title="Vai alla pagina: Guida erdis">Guida
                                         Erdis</a>
+                                        <a class="dropdown-item"
+                                       href="{{url('/utilita/percorso-formativo-24-cfu/')}}"
+                                       title="Vai alla pagina: PF 24">PF 24</a>
                                     <a class="dropdown-item" href="{{url('/')}}" title="Vai alla pagina: Download">Tutti
                                         i download</a>
                                 </div>
