@@ -856,7 +856,7 @@
 <link href="{{asset('static/css/home.min.css')}}" rel="stylesheet" type="text/css"/>
 <link href="{{asset('static/css/bricklayer.min.css')}}" rel="stylesheet" type="text/css"/>-->
 
-<link href="{{asset('build/css/gulliver.min.css')}}" rel="stylesheet" type="text/css"/>
+<link href="{{asset('build/gulliver.min.css')}}" rel="stylesheet" type="text/css"/>
 <script src="{{asset('build/gulliver.min.js')}}"></script>
 
 <!--Inclusione slider javascript-->
