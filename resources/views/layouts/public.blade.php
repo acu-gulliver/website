@@ -228,6 +228,9 @@
                         <a href="#" title="Vai alla pagina: Rappresentanza">Rappresentanza</a>
                         <ul class="navmenu navdropdown">
                             <li class="dropdownmobile">
+                                <a href="{{url('/cnsu-2022/')}} " title="Vai alla pagina: Elezioni CNSU 2022">Elezioni CNSU 2022</a>
+                            </li>
+                            <li class="dropdownmobile">
                                 <a href="{{url('/elezioni-universitarie-2020/')}} " title="Vai alla pagina: Elezioni Universitarie 2020">Elezioni
                                     universitarie 2020</a>
                             </li>
@@ -539,6 +542,9 @@
                                     Rappresentanza
                                 </p>
                                 <div class="dropdown-menu sm-menu">
+                                <a class="dropdown-item"
+                                       href="{{url('/cnsu-2022/')}}"
+                                       title="Vai alla pagina: Elezioni CNSU 2022">Elezioni CNSU 2022</a>
                                     <a class="dropdown-item"
                                        href="{{url('/elezioni-universitarie-2020/')}}"
                                        title="Vai alla pagina: Elezioni universitarie 2020">Elezioni
