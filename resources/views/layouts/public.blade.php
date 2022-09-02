@@ -144,7 +144,7 @@
                             <!-- siti verticali -->
                             <div class="sitiverticali float-left text-right d-none d-xl-block d-lg-block">
                                 <a aria-label="Collegamento a sito esterno - Sito Cercalloggio - nuova finestra"
-                                   title="Cercalloggio" href="https://www.gulliver.univpm.it/cercalloggio/"
+                                   title="Cercalloggio" href="https://padlet.com/ACU_GULLIVER/wz3tqt6vrrr211rw"
                                    target="_blank">Cercalloggio</a>
                                 <a aria-label="Collegamento a sito esterno - Sito UDU - nuova finestra"
                                    title="Unione degli universitari" href="http://www.unionedegliuniversitari.it/"
@@ -382,7 +382,7 @@
                             stampa</a>
                     </li>
                     <li>
-                        <a class="nav-link" href="{{url('/cercalloggio//')}}" title="Vai alla pagina: Cercalloggio">Cerca
+                        <a class="nav-link" href="https://padlet.com/ACU_GULLIVER/wz3tqt6vrrr211rw" title="Vai alla pagina: Cercalloggio">Cerca
                             Alloggio</a>
                     </li>
                     <li>
